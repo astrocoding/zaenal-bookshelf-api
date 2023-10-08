@@ -1,0 +1,2 @@
+# Dicoding Bookshelf API Submission
+Projek ini dibuat untuk memenuhi proyek akhir kelulusan pada kursus **Belajar Membuat Aplikasi Back-End untuk Pemula** dan **Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud**
