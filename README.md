@@ -35,3 +35,7 @@ npm run eslint
 
 ## Review
 **Penilaian Project: ⭐⭐⭐⭐⭐**
+
+# Credit
+Credits: [Zaenal Alfian](https://github.com/astrocoding)
+Last Edited on: 6/10/2023
